@@ -1,0 +1,262 @@
+2024-05-30 10:26:02,269 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-30 10:26:18,319 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api:test:0.0.1-SNAPSHOT @ /home/abarei/Documentos/DV24/seminario/test/pom.xml.
+2024-05-30 10:26:19,283 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:26:19,313 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:26:19,320 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:26:20,191 [Worker-22: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api:test:0.0.1-SNAPSHOT @ /home/abarei/Documentos/DV24/seminario/test/pom.xml.
+2024-05-30 10:26:20,816 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:26:20,838 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:26:20,846 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:30:55,084 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:30:55,092 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:30:55,095 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:31:34,751 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:31:34,761 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:31:34,764 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:31:51,346 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:31:51,355 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:31:51,362 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:32:14,682 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:32:14,701 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:32:14,711 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:32:22,880 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:32:22,888 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:32:22,895 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 10:34:47,021 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 10:34:47,027 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 10:34:47,032 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 11:12:52,624 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 11:12:52,624 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 11:12:52,628 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 11:16:52,618 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 11:16:52,619 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 11:16:52,623 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 11:19:04,597 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 11:19:04,598 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 11:19:04,601 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:36:50,360 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:36:50,361 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:36:50,365 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:37:23,414 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:37:23,415 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:37:23,418 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:38:33,781 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:38:33,782 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:38:33,785 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:39:43,065 [Worker-56: Compute Mappings for project test] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api:test:0.0.1-SNAPSHOT @ /home/abarei/Documentos/DV24/seminario/test/pom.xml.
+2024-05-30 15:47:15,022 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 15:47:15,030 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:47:15,035 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:47:26,693 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 15:47:26,698 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:47:26,701 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:47:41,280 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 15:47:41,284 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:47:41,288 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:52:19,171 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 15:52:19,180 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:52:19,184 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:53:31,857 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 15:53:31,869 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:53:31,873 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 15:55:26,883 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-30 15:55:26,889 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 15:55:26,894 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 17:01:27,458 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api:test:0.0.1 @ /home/abarei/Documentos/DV24/seminario/test/pom.xml.
+2024-05-30 17:01:27,642 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:01:27,642 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:01:27,646 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 17:01:49,198 [Worker-64: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api:api_test:0.0.1 @ /home/abarei/Documentos/DV24/seminario/test/pom.xml.
+2024-05-30 17:01:49,340 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:01:49,341 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:01:49,347 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 17:02:17,220 [Worker-65: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api:api_test:0.0.1 @ /home/abarei/Documentos/DV24/seminario/test/pom.xml.
+2024-05-30 17:02:17,312 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:02:17,313 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:02:17,316 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 17:02:23,452 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:02:23,452 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-30 17:02:23,455 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /home/abarei/Documentos/DV24/seminario/test/src/test/resources
+2024-05-30 17:05:33,058 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1044])
+2024-05-30 17:05:33,060 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-30 17:05:33,060 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-30 17:05:33,061 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-30 17:05:33,062 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-30 17:05:33,063 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-30 17:05:33,064 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-30 17:05:33,064 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-30 17:05:33,064 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-30 17:05:33,064 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-30 17:05:33,064 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-30 17:05:33,065 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [781])
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1233])
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/slf4j.api_2.0.12.jar
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [791])
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [789])
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [814])
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-30 17:05:33,066 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [815])
+2024-05-30 17:05:33,067 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-30 17:05:33,067 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [819])
+2024-05-30 17:05:33,067 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-30 17:05:33,067 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [782])
+2024-05-30 17:05:33,067 [Worker-64: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-30 17:05:33,069 [Worker-64: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/abarei/Documentos/DV24/seminario/test":
+2024-05-30 17:05:33,070 [Worker-64: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2024-05-30 17:08:02,110 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1044])
+2024-05-30 17:08:02,110 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-30 17:08:02,111 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-30 17:08:02,112 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-30 17:08:02,113 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [781])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1233])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/slf4j.api_2.0.12.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [791])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [789])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [814])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [815])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [819])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [782])
+2024-05-30 17:08:02,114 [Worker-63: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-30 17:08:02,115 [Worker-63: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/abarei/Documentos/DV24/seminario/test":
+2024-05-30 17:08:02,115 [Worker-63: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install -e -X
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [1044])
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/aopalliance-1.0.jar
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/guice-5.1.0.jar
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpclient-4.5.14.jar
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/httpcore-4.4.16.jar
+2024-05-30 17:13:14,398 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jansi-2.4.0.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/jcl-over-slf4j-1.7.36.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-artifact-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-builder-support-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-compat-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-core-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-embedder-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-model-builder-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-plugin-api-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-repository-metadata-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-api-1.9.18.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-connector-basic-1.9.18.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-impl-1.9.18.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-named-locks-1.9.18.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-provider-3.9.6.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-spi-1.9.18.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-file-1.9.18.jar
+2024-05-30 17:13:14,399 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-http-1.9.18.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-transport-wagon-1.9.18.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-resolver-util-1.9.18.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-3.9.6.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-settings-builder-3.9.6.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/maven-shared-utils-3.3.4.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-build-api-0.0.7.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-cipher-2.0.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-classworlds-2.7.0.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-component-annotations-2.1.0.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-interpolation-1.26.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-sec-dispatcher-2.0.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/plexus-utils-3.5.1.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-file-3.5.3.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-3.5.3.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-http-shared-3.5.3.jar
+2024-05-30 17:13:14,400 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234/jars/wagon-provider-api-3.5.3.jar
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [781])
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/com.google.guava_33.0.0.jre.jar
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.12 [1233])
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/slf4j.api_2.0.12.jar
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [791])
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [789])
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/jakarta.annotation-api_1.3.5.jar
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [814])
+2024-05-30 17:13:14,401 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.cli_1.6.0.jar
+2024-05-30 17:13:14,402 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [815])
+2024-05-30 17:13:14,402 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.commons-codec_1.16.0.jar
+2024-05-30 17:13:14,402 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [819])
+2024-05-30 17:13:14,402 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/org.apache.commons.lang3_3.14.0.jar
+2024-05-30 17:13:14,402 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [782])
+2024-05-30 17:13:14,402 [Worker-71: Launching New_configuration] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: /app/eclipse/plugins/com.google.guava.failureaccess_1.0.2.jar
+2024-05-30 17:13:14,403 [Worker-71: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "/home/abarei/Documentos/DV24/seminario/test":
+2024-05-30 17:13:14,403 [Worker-71: Launching New_configuration] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
